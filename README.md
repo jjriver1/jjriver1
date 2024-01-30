@@ -26,8 +26,8 @@ Computer Science student at Millersville University 🎓 with a strong passion f
   <img align="right" alt="GIF" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" height="150"/>
   
 ### ✨ Quick Facts
--  🔭 I’m currently working on [Algorithm Visualization Website](https://github.com/jjriver1/algowebsite)
-- 🌱 I’m currently learning **React & Firebase**
+-  🔭 I’m currently working on [Social Media Website]([https://github.com/jjriver1/algowebsite](https://github.com/jjriver1/FriendSync))
+- 🌱 I’m currently learning **React & AWS**
 - 💬 Ask me about **CSS**
 - 🎯 Aspiring to become a Full-Stack Web Developer and contribute to amazing projects. 💼
 - ⚡ Fun fact **I love pixel art** 👾
